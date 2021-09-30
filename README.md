@@ -1,3 +1,7 @@
 # bookRecommendationApp
-Created with CodeSandbox
-This is my book recommendation app created using reactjs.
+This is the book recommendation app created using React-JS on CodeSandbox.
+
+# Tech Stack:
+HTML5\
+CSS\
+React-JS
